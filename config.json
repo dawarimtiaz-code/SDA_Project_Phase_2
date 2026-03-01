@@ -1,0 +1,16 @@
+{
+  "input": {
+    "type": "csv",
+    "file_path": "data/gdp_with_continent_filled.csv"
+  },
+  "output": {
+    "type": "dashboard"
+  },
+  "analysis": {
+    "continent": "Asia",
+    "year": 2015,
+    "start_year": 1980,
+    "end_year": 2020,
+    "decline_years": 3
+  }
+}
